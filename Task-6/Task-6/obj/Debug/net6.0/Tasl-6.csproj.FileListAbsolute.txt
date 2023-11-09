@@ -1,0 +1,14 @@
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\Tasl-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\Tasl-6.AssemblyInfoInputs.cache
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\Tasl-6.AssemblyInfo.cs
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\Tasl-6.csproj.CoreCompileInputs.cache
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\bin\Debug\net6.0\Tasl-6.exe
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\bin\Debug\net6.0\Tasl-6.deps.json
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\bin\Debug\net6.0\Tasl-6.runtimeconfig.json
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\bin\Debug\net6.0\Tasl-6.dll
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\bin\Debug\net6.0\Tasl-6.pdb
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\Tasl-6.dll
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\refint\Tasl-6.dll
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\Tasl-6.pdb
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\Tasl-6.genruntimeconfig.cache
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Tasl-6\Tasl-6\obj\Debug\net6.0\ref\Tasl-6.dll
